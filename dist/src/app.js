@@ -16,7 +16,8 @@ app.use(cors({
     'http://127.0.0.1:5173',
     'http://127.0.0.1:3000',
     'https://flash-9117aa82.herositepro.com',
-    'http://flash-9117aa82.herositepro.com'
+    'http://flash-9117aa82.herositepro.com',
+    'https://shikha-front-end-final.vercel.app'
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
   allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With'],
